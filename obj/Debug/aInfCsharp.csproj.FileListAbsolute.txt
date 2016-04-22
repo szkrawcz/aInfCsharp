@@ -1,0 +1,6 @@
+C:\github\aInfCsharp\bin\Debug\aInfCsharp.exe.config
+C:\github\aInfCsharp\bin\Debug\aInfCsharp.exe
+C:\github\aInfCsharp\bin\Debug\aInfCsharp.pdb
+C:\github\aInfCsharp\obj\Debug\aInfCsharp.csprojResolveAssemblyReference.cache
+C:\github\aInfCsharp\obj\Debug\aInfCsharp.exe
+C:\github\aInfCsharp\obj\Debug\aInfCsharp.pdb
