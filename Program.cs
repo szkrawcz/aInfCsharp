@@ -46,7 +46,7 @@ Console.WriteLine("Elapsed={0}",sw.Elapsed);
                 entryType = "Directory";
             }
             //  Show this entry's type, name, and creation date.
-            //Console.WriteLine("{0} entry {1} was created on {2:D} last write {3:D}", entryType, fsi.FullName, fsi.CreationTime , fsi.LastWriteTime);
+            Console.WriteLine("{0} entry {1} was created on {2:D} last write {3:D}", entryType, fsi.FullName, fsi.CreationTime , fsi.LastWriteTime);
             var fullName =fsi.FullName;
             var creationTime =  fsi.CreationTime;
             var lastWrite = fsi.LastWriteTime;
